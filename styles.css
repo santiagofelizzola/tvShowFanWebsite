@@ -5,5 +5,34 @@
 body {
     background-image: url(./assets/witcherBackground.jpeg);
     background-position: center;
-    background-position-y: top;
+    color: white;
+    position: relative;
+}
+.bio-div {
+    display: block;
+    grid-template-rows: 5px 1fr;
+    background-color: black;
+    text-align: center;
+    width: 60%;
+    margin: auto;
+    float: inline-end;
+}
+.mainCharacters {
+    display: flex;
+    align-items: center;
+}
+.MCimage {
+    max-width: 500px;
+    max-height: 280px;
+    margin: ;
+}
+.MC {
+    justify-content: center;
+    align-items: center;
+    margin: 0 20px;
+    background-color: black;
+    align-content: center;
+    text-align: center;
+    border-style: solid;
+    border-color: black;
 }
