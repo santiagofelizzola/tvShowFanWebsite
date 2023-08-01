@@ -1,0 +1,9 @@
+#logo {
+    width: 100px;
+    height: auto;
+}
+body {
+    background-image: url(./assets/witcherBackground.jpeg);
+    background-position: center;
+    background-position-y: top;
+}
