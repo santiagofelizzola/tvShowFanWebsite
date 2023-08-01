@@ -1,0 +1,26 @@
+Include:
+    - reference to game
+    - # of seasons
+    - black, grey, white, & red theme
+    - Photos that show more (@media)
+    - Main characters + brief bio
+    - Quotes
+    - Season sinopsis
+    - Show Info
+        - Producer
+        - writer
+        - streaming platform
+
+Witcher Logo in Header and throughout
+
+Header
+    - Logo
+    - Title
+
+Premier Trailer / TV Info
+bio
+quotes
+Main characters
+bios of main characyers
+# of seasons (dropdown w/ sinopsis)
+reference to video games
